@@ -18,6 +18,10 @@ I'm excited to expand my skill set into front-end development. I believe that a 
 
 When I'm not coding or learning new technologies, I love to unwind by watching sitcoms and documentaries, and playing video games. These hobbies allow me to relax and recharge, and I often find that they provide unexpected inspiration for my tech projects!
 
+## Passion for Animals 🐾
+
+I'm a huge animal lover, and I have a cat that I adore. I love her so much that my profile picture is AI-generated based on both of us. It's a fun blend of my passion for technology and animals!
+
 ## Let's Connect! 🌐
 
 I'm always open to collaborating on projects, learning from others, and expanding my network. Feel free to reach out if you're interested in working together or if you have any resources that could help me on my journey!
