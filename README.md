@@ -1,23 +1,33 @@
 # Hi, I'm Luiza 👋
-I'm a passionate tech enthusiast diving deep into the world of Artificial Intelligence, Machine Learning, and Prompt Engineering. Although I'm still exploring these areas, my journey so far has been both challenging and incredibly rewarding. I'm excited to continue learning and expanding my skills in this ever-evolving field.
+I am a Software Development student and a former Veterinary Medicine professional transitioning into the tech industry. This unique background has shaped my approach to coding: combining the analytical rigor of healthcare with the creative problem-solving of software engineering.
 
-My interest in technology was sparked back in college at Faculdade Santa Marcelina during an elective graphic design course. Though it was outside my primary field of study, it opened my eyes to the vast world of tech and inspired me to keep learning beyond my original degree. That experience ignited a passion for technology that’s been growing ever since.
+Currently, I'm pursuing a degree in Analysis and Systems Development, focusing on building scalable backend solutions, mastering Data Structures, and exploring the intersection of AI and software architecture.
 
-## My Journey 🚀
-Switching gears and diving into tech has been an exciting adventure. Over the past year, I’ve honed my skills in Python, building a solid foundation in programming and problem-solving. As I’ve explored new areas like AI, Machine Learning, and Prompt Engineering, I’ve discovered how much more there is to learn and how these fields can transform the way we solve problems and create solutions.
+## My Tech Stack 🛠️
+Languages: Python (Advanced), C (Basic), SQL (Basic).
+
+Concepts: Object-Oriented Programming (OOP), Data Structures, Web Scraping, Logic & Algorithms.
+
+Tools & Frameworks: Git/GitHub, Prompt Engineering.
+
+## The Journey & The Pivot 🚀
+My transition to tech wasn't accidental. It started with a spark during a graphic design course at Faculdade Santa Marcelina, which evolved from curiosity into a dedicated career shift.
+
+Today, I leverage my experience in high-pressure clinical environments to write clean, efficient code. I’ve spent the last year honing my Python skills and am currently diving deep into databases. I believe that being a developer is about lifelong learning, and I'm fully committed to this "ever-evolving" field.
 
 My diverse background has given me a unique perspective that blends creativity and logic, and I’m eager to apply this approach as I continue my journey in tech. I’m passionate about exploring innovative ways to use technology to make a real difference.
 
-## What's Next? 🌱
-I’m currently focused on deepening my knowledge of AI and Machine Learning. I’m excited to dive deeper into the world of algorithms, data analysis, and building intelligent systems. Prompt Engineering has also caught my eye as a way to shape how AI interacts with users and the world around us.
+## What I'm Building 🌱
+Backend Systems: Developing projects that focus on OOP principles and clean code.
 
-I believe the combination of my Python skills and this expanding knowledge will help me create meaningful solutions and contribute to exciting technological advancements.
+AI & ML: Researching how Machine Learning can optimize real-world data analysis.
 
-## Hobbies 🎮
-When I’m not coding, I love relaxing with sitcoms, documentaries, and video games. These activities help me unwind and often spark new ideas that I can bring into my projects.
+Automation: Creating scripts to streamline repetitive tasks.
 
-## Love for Animals 🐾
-Outside of tech, I’m a huge animal lover. I have a cat who means the world to me, and she’s even featured in my profile picture, which is a fun AI-generated blend of the two of us. It’s a little reminder of how technology and the things I love can come together in unexpected ways.
+## Beyond the Code 🎮 🐾
+Hobbies: Huge fan of sitcoms and documentaries. When I'm not debugging, you'll probably find me in a RPG or a strategy game.
+
+Animal Lover: I’m a dedicated "cat mom." My profile picture is an AI-generated blend of me and my feline companion—a perfect representation of my two worlds colliding.
 
 ## Let’s Connect! 🌐
-I’m always excited to connect with fellow tech enthusiasts, collaborate on projects, and expand my network. If you’re working on something cool or have resources to share, feel free to reach out—I’d love to learn from you and contribute wherever I can!
+I’m looking for my first role as a Junior Developer or Tech Intern. If you're looking for someone who brings maturity, a fresh perspective, and a strong foundation in programming logic, let's talk!
