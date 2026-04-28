@@ -32,6 +32,4 @@ Animal Lover: I’m a dedicated "cat mom." My profile picture is an AI-generated
 ## Let’s Connect! 🌐
 I’m looking for my first role as a Junior Developer or Tech Intern. If you're looking for someone who brings maturity, a fresh perspective, and a strong foundation in programming logic, let's talk!
 
-[https://www.linkedin.com/in/luiza-auge/]
-
-[augeluiza@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/luiza-auge/) | [Email](augeluiza@gmail.com)
