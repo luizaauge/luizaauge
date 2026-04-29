@@ -1,5 +1,5 @@
 # Hi, I'm Luiza 👋
-I am a Software Development student and a former Veterinary Medicine professional transitioning into the tech industry. This unique background has shaped my approach to coding: combining the analytical rigor of healthcare with the creative problem-solving of software engineering.
+I am a Software Development student transitioning into the tech industry. I have a professional background as a veterinarian which has shaped my approach to coding: combining the analytical rigor of healthcare with the creative problem-solving of software engineering.
 
 Currently, I'm pursuing a degree in Analysis and Systems Development, focusing on building scalable backend solutions, mastering Data Structures, and exploring the intersection of AI and software architecture.
 
